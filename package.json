@@ -1,0 +1,17 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "the second one",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon",
+    "flew": "nodemon flew.js",
+    "destruct": "nodemon destruct.js",
+    "rest": "nodemon rest.js"
+  },
+  "keywords": [
+    "second"
+  ],
+  "author": "favoudoh",
+  "license": "ISC"
+}
